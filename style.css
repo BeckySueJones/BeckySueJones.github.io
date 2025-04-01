@@ -1,0 +1,9 @@
+body {
+    background-color: #f0f0f0; /* Light gray background */
+    font-family: sans-serif;
+    color: #333; /* Dark gray text color */
+}
+
+h1 {
+    font-size: 2em;
+}
